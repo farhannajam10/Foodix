@@ -1,0 +1,31 @@
+C:\Users\farhan\Documents\Visual Studio 2012\Projects\Foodix v 2.0\Foodix v 2.0\bin\app\Foodix v 2.0.exe.config
+C:\Users\farhan\Documents\Visual Studio 2012\Projects\Foodix v 2.0\Foodix v 2.0\bin\app\Foodix v 2.0.exe
+C:\Users\farhan\Documents\Visual Studio 2012\Projects\Foodix v 2.0\Foodix v 2.0\obj\app\Foodix_v_2._0.Form1.resources
+C:\Users\farhan\Documents\Visual Studio 2012\Projects\Foodix v 2.0\Foodix v 2.0\obj\app\Foodix_v_2._0.Login.resources
+C:\Users\farhan\Documents\Visual Studio 2012\Projects\Foodix v 2.0\Foodix v 2.0\obj\app\Foodix_v_2._0.main.resources
+C:\Users\farhan\Documents\Visual Studio 2012\Projects\Foodix v 2.0\Foodix v 2.0\obj\app\Foodix_v_2._0.Properties.Resources.resources
+C:\Users\farhan\Documents\Visual Studio 2012\Projects\Foodix v 2.0\Foodix v 2.0\obj\app\Foodix v 2.0.csproj.GenerateResource.Cache
+C:\Users\farhan\Documents\Visual Studio 2012\Projects\Foodix v 2.0\Foodix v 2.0\obj\app\Foodix v 2.0.exe
+C:\Users\farhan\documents\visual studio 2012\Projects\Foodix v 2.0\Foodix v 2.0\obj\app\Foodix_v_2._0.newPass.resources
+C:\Users\farhan\documents\visual studio 2012\Projects\Foodix v 2.0\Foodix v 2.0\obj\app\Foodix_v_2._0.ResetPass.resources
+C:\Users\farhan\documents\visual studio 2012\Projects\Foodix v 2.0\Foodix v 2.0\obj\app\Foodix v 2.0.csprojResolveAssemblyReference.cache
+C:\Users\farhan\documents\visual studio 2012\Projects\Foodix v 2.0\Foodix v 2.0\obj\app\Foodix_v_2._0.Forms.Home.resources
+C:\Users\farhan\documents\visual studio 2012\Projects\Foodix v 2.0\Foodix v 2.0\obj\app\Foodix_v_2._0.Forms.RegCustomer.resources
+C:\Users\farhan\documents\visual studio 2012\Projects\Foodix v 2.0\Foodix v 2.0\obj\app\Foodix_v_2._0.Forms.BeforeMenu.resources
+C:\Users\farhan\documents\visual studio 2012\Projects\Foodix v 2.0\Foodix v 2.0\obj\app\Foodix_v_2._0.Forms.DeleteCustomer.resources
+C:\Users\farhan\documents\visual studio 2012\Projects\Foodix v 2.0\Foodix v 2.0\obj\app\Foodix_v_2._0.Forms.MENU.resources
+C:\Users\farhan\documents\visual studio 2012\Projects\Foodix v 2.0\Foodix v 2.0\obj\app\Foodix_v_2._0.Forms.StaffAttend.resources
+C:\Users\farhan\documents\visual studio 2012\Projects\Foodix v 2.0\Foodix v 2.0\obj\app\Foodix_v_2._0.Forms.Statics.resources
+C:\Users\farhan\documents\visual studio 2012\Projects\Foodix v 2.0\Foodix v 2.0\obj\app\Foodix_v_2._0.Forms.UpdateCustomer.resources
+C:\Users\farhan\documents\visual studio 2012\Projects\Foodix v 2.0\Foodix v 2.0\bin\app\itextsharp.dll
+C:\Users\farhan\documents\visual studio 2012\Projects\Foodix v 2.0\Foodix v 2.0\bin\app\LiveCharts.dll
+C:\Users\farhan\documents\visual studio 2012\Projects\Foodix v 2.0\Foodix v 2.0\bin\app\LiveCharts.WinForms.dll
+C:\Users\farhan\documents\visual studio 2012\Projects\Foodix v 2.0\Foodix v 2.0\bin\app\LiveCharts.Wpf.dll
+C:\Users\farhan\documents\visual studio 2012\Projects\Foodix v 2.0\Foodix v 2.0\bin\app\WinFormAnimation.dll
+C:\Users\farhan\documents\visual studio 2012\Projects\Foodix v 2.0\Foodix v 2.0\bin\app\itextsharp.xml
+C:\Users\farhan\documents\visual studio 2012\Projects\Foodix v 2.0\Foodix v 2.0\bin\app\LiveCharts.pdb
+C:\Users\farhan\documents\visual studio 2012\Projects\Foodix v 2.0\Foodix v 2.0\bin\app\LiveCharts.xml
+C:\Users\farhan\documents\visual studio 2012\Projects\Foodix v 2.0\Foodix v 2.0\bin\app\LiveCharts.WinForms.pdb
+C:\Users\farhan\documents\visual studio 2012\Projects\Foodix v 2.0\Foodix v 2.0\bin\app\LiveCharts.WinForms.xml
+C:\Users\farhan\documents\visual studio 2012\Projects\Foodix v 2.0\Foodix v 2.0\bin\app\LiveCharts.Wpf.pdb
+C:\Users\farhan\documents\visual studio 2012\Projects\Foodix v 2.0\Foodix v 2.0\bin\app\LiveCharts.Wpf.xml
